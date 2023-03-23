@@ -1,0 +1,70 @@
+body {
+	   
+
+	}
+
+
+#banner{         /*pra chamar o ID usa-se a # */
+float: right;
+width: 40%;
+height: 300px;
+margin: 0 20px;
+margin-bottom: 20px;
+}
+
+.principal{
+	 background-color: white;
+	   padding: 30px;
+}
+
+.titulo-principal {
+		 text-align: center;
+
+
+}
+
+p {                                  /*pra chamar o elemento usa-se o nome do elemento*/
+		 text-align: center;
+		 width: 45%;
+}
+
+#missao{
+	style="font-size: 25px;
+
+}
+
+
+ strong {
+		color: black;
+		font-weight: bold;
+	}
+
+
+.itens {                  /*pra chamar a classe usa-se o . */
+	font-style: italic;
+}
+
+.beneficios {
+	background: #FFFFFFFF;
+ 	padding: 20px;
+}
+.titulo-centralizado {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px;
+     width: 45%;
+
+}
+
+.imgbeneficios {
+	width: 50;
+	
+}
+.listaIndex{
+	  display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-size: 20px;
+}
